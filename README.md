@@ -37,7 +37,7 @@
 
 <h2>🚀 Setup Guide</h2>
 
-<h3>1️⃣ Clone the Repository</h3>
+<h3>1️⃣ Clone the Repository.</h3>
 <pre>
 git clone https://github.com/your-username/authentication-system.git
 cd authentication-system
