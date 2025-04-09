@@ -1,4 +1,4 @@
-<h2 align="center">🔐 These project is based on user authentication form</h2>
+<h2 align="center">🔐 These Project is based on user Authentication Form</h2>
 
 <p>This project is a <strong>secure authentication system</strong> that allows users to <strong>register, log in, and log out</strong> using a <strong>PHP-based backend</strong> and <strong>MySQL database</strong>. It includes error handling, session management, and a responsive UI.</p>
 
