@@ -7,7 +7,6 @@
   <li>✅ <strong>User Registration</strong> – Users can sign up with a name, email, age, and password.</li>
   <li>✅ <strong>Login System</strong> – Validates user credentials before granting access.</li>
   <li>✅ <strong>Session Management</strong> – Keeps users logged in until they log out.</li>
-  <li>✅ <strong>Forgot Password</strong> – Allows users to reset passwords.</li>
   <li>✅ <strong>Edit Profile</strong> – Users can update their details.</li>
   <li>✅ <strong>Logout</strong> – Ends the user session securely.</li>
 </ul>
